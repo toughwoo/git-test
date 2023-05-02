@@ -7,6 +7,7 @@
 <title>DB Connection Test</title>
 </head>
 <body>
+	<h3>ㅎㅎ</h3>
 	<form action="./userJoinAction.jsp" method="post">
 		<input type="text" name="userID">
 		<input type="password" name="userPassword">
